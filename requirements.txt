@@ -1,3 +1,1 @@
 # frappe -- https://github.com/frappe/frappe is installed via 'bench init'
-#猴子补丁实现机制依赖开箱即用
-erpnext_oob
