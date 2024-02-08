@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include zelin_permission *.css
+recursive-include zelin_permission *.csv
+recursive-include zelin_permission *.html
+recursive-include zelin_permission *.ico
+recursive-include zelin_permission *.js
+recursive-include zelin_permission *.json
+recursive-include zelin_permission *.md
+recursive-include zelin_permission *.png
+recursive-include zelin_permission *.py
+recursive-include zelin_permission *.svg
+recursive-include zelin_permission *.txt
+recursive-exclude zelin_permission *.pyc

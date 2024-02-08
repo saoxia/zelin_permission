@@ -1,0 +1,26 @@
+[
+   {
+      "doctype": "Custom Field",
+      "dt": "Project",
+      "fieldname": "is_private",
+      "fieldtype": "Check",
+      "insert_after": "is_active",
+      "label": "Is Private",
+      "default": 0,
+      "description":"If checked, only owner, administrator, system manager and project user can see",
+      "modified": "2022-03-17 23:12:02.049023",
+      "name": "Project-is_private"
+     },
+     {
+      "doctype": "Custom Field",
+      "dt": "Task",
+      "fieldname": "is_private",
+      "fieldtype": "Check",
+      "insert_after": "is_group",
+      "label": "Is Private",
+      "default": 0,
+      "description":"If checked, only owner, administrator, system manager and project user can see",
+      "modified": "2022-03-17 23:12:02.049023",
+      "name": "Task-is_private"
+     }
+]

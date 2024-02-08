@@ -1,0 +1,6 @@
+{
+	"js/zelin_permission.min.js": [
+		"public/js/zelin_permission.js",
+		"public/js/form.js"
+	]
+}
